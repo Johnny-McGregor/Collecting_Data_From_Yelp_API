@@ -1,6 +1,6 @@
 # Overview
 
-[New Light Technologies][https://newlighttechnologies.com/] is an organization founded in 2003. After over a decade of research, New Light developed a carbon capture technology able to produce high-performance bioplastics from carbon emissions. Their mission is to replace oil-based plastics with greenhouse gas-based bioplastics on a global scale, moving oil out of the world’s products, reducing material production costs, and reducing the amount of carbon in the air on a market-driven basis. They also do contracting work with various organizations, including FEMA (the Federal Emergency Management Agency), the U.S. Census Bureau, and The World Bank.
+New Light Technologies is an organization founded in 2003. After over a decade of research, New Light developed a carbon capture technology able to produce high-performance bioplastics from carbon emissions. Their mission is to replace oil-based plastics with greenhouse gas-based bioplastics on a global scale, moving oil out of the world’s products, reducing material production costs, and reducing the amount of carbon in the air on a market-driven basis. They also do contracting work with various organizations, including FEMA (the Federal Emergency Management Agency), the U.S. Census Bureau, and The World Bank.
 
 They provided this problem statement regarding emergency preparedness and economic analysis:
 
